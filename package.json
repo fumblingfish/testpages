@@ -1,0 +1,21 @@
+{
+  "name": "testpages",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fumblingfish/testpages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fumblingfish/testpages/issues"
+  },
+  "homepage": "https://github.com/fumblingfish/testpages#readme"
+}
