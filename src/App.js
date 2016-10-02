@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Testing some changes {testlib()}</h2>
+          <h2>{testlib()}</h2>
         </div>
       </div>
     );
